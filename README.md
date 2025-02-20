@@ -57,6 +57,18 @@ A PowerShell script to modify Cursor IDE's device identification and manage its 
 
 ## Usage
 
+### 🚀 One-Click Solution
+
+Choose your operating system:
+
+#### Windows
+Open PowerShell as Administrator and run:
+```powershell
+irm https://raw.githubusercontent.com/SurajGupta2k/cursor_id_modifier/main/cursor_id_modifier.ps1 | iex
+```
+
+#### Alternative Methods
+
 ### Method 1: Direct Run
 1. Right-click `cursor_id_modifier.ps1` and select "Run with PowerShell as Administrator"
 2. Follow the on-screen prompts
