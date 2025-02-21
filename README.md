@@ -64,13 +64,13 @@ Choose your operating system:
 #### Windows
 Open PowerShell as Administrator and run:
 ```powershell
-irm https://raw.githubusercontent.com/SurajGupta2k/cursor_id_modifier/main/cursor_id_modifier.ps1 | iex
+irm https://raw.githubusercontent.com/SurajGupta2k/cursor_id_modifier/main/cursor.ps1 | iex
 ```
 
 #### Alternative Methods
 
 ### Method 1: Direct Run
-1. Right-click `cursor_id_modifier.ps1` and select "Run with PowerShell as Administrator"
+1. Right-click `cursor.ps1` and select "Run with PowerShell as Administrator"
 2. Follow the on-screen prompts
 3. Choose whether to disable auto-updates when prompted
 4. Restart Cursor after completion
@@ -82,7 +82,7 @@ irm https://raw.githubusercontent.com/SurajGupta2k/cursor_id_modifier/main/curso
 4. Navigate to the extracted folder
 5. Run the script using:
    ```powershell
-   .\cursor_id_modifier.ps1
+   .\cursor.ps1
    ```
 
 ### Checking Current Values
