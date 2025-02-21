@@ -181,4 +181,4 @@ For issues and questions:
 
 ## License
 
-Free to use and modify. Please credit original authors. 
+Free to use and modify.
