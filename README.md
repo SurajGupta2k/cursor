@@ -64,7 +64,7 @@ Choose your operating system:
 #### Windows
 Open PowerShell as Administrator and run:
 ```powershell
-irm https://raw.githubusercontent.com/SurajGupta2k/cursor_id_modifier/main/cursor.ps1 | iex
+irm https://raw.githubusercontent.com/SurajGupta2k/cursor/main/cursor.ps1 | iex
 ```
 
 #### Alternative Methods
